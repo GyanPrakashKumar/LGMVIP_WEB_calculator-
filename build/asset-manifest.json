@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/LGMVIP_WEB_calculator%20/static/css/main.f46d41bc.chunk.css",
+    "main.js": "/LGMVIP_WEB_calculator%20/static/js/main.06b09025.chunk.js",
+    "main.js.map": "/LGMVIP_WEB_calculator%20/static/js/main.06b09025.chunk.js.map",
+    "runtime-main.js": "/LGMVIP_WEB_calculator%20/static/js/runtime-main.129cecdd.js",
+    "runtime-main.js.map": "/LGMVIP_WEB_calculator%20/static/js/runtime-main.129cecdd.js.map",
+    "static/js/2.7bd4e2a4.chunk.js": "/LGMVIP_WEB_calculator%20/static/js/2.7bd4e2a4.chunk.js",
+    "static/js/2.7bd4e2a4.chunk.js.map": "/LGMVIP_WEB_calculator%20/static/js/2.7bd4e2a4.chunk.js.map",
+    "index.html": "/LGMVIP_WEB_calculator%20/index.html",
+    "static/css/main.f46d41bc.chunk.css.map": "/LGMVIP_WEB_calculator%20/static/css/main.f46d41bc.chunk.css.map",
+    "static/js/2.7bd4e2a4.chunk.js.LICENSE.txt": "/LGMVIP_WEB_calculator%20/static/js/2.7bd4e2a4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.129cecdd.js",
+    "static/js/2.7bd4e2a4.chunk.js",
+    "static/css/main.f46d41bc.chunk.css",
+    "static/js/main.06b09025.chunk.js"
+  ]
+}
